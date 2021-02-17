@@ -61,7 +61,7 @@ class OutboundChatPanel extends React.Component {
 
         return (
             <div className={classes.boxDialpad}>
-                <div className={classes.titleAgentDialpad}>Outbound SMS</div>
+                <div className={classes.titleAgentDialpad}>Outbound SMS Demo</div>
                 <TextField 
                     id="standard-basic" 
                     label="Enter a number" 
